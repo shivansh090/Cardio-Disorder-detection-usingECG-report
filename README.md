@@ -79,21 +79,8 @@ Our automatic model for predicting heart disease using six ML classifiers achiev
 
 ## Acknowledgements
 
-## Team Members
 This project was conducted as part of the Machine Learning research work at IIIT Bhopal, under the guidance of Prof. Bhupendra Singh. Special thanks to the following team members for their contributions:
 
 - **Harsh Shivhare**
 - **Shivansh Vikram Singh**
 
-
-## How to Use
-
-[Instructions on how to set up and run the project would go here. As this information wasn't provided, you may want to add details about requirements, installation steps, and usage examples when available.]
-
-## Contributing
-
-[Information about how others can contribute to this project would go here. This might include guidelines for submitting issues, making pull requests, or coding standards.]
-
-## License
-
-[Information about the project's license would go here. If a specific license hasn't been chosen, you may want to consider adding one to clarify how others can use and distribute your code.]
