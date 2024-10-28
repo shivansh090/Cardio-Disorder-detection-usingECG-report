@@ -1,5 +1,14 @@
 # ECG Classification for Heart Disease Detection
 
+## Overview
+This project was conducted as part of the Machine Learning research work at IIIT Bhopal, under the guidance of Prof. Bhupendra Singh. Special thanks to the following team members for their contributions:
+
+- **Harsh Shivhare**
+- **Shivansh Vikram Singh**
+
+The Accuracy achived is shown in below graph
+<img src='./Performance/PerformanceMeasures.png' >
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Dataset Features](#dataset-features)
@@ -7,7 +16,6 @@
 4. [Model Performance](#model-performance)
 5. [Comparison with Previous Work](#comparison-with-previous-work)
 6. [Results](#results)
-7. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -77,10 +85,4 @@ While our Naive Bayes and SVM models showed slightly lower accuracy compared to 
 
 Our automatic model for predicting heart disease using six ML classifiers achieved an average accuracy of 87.74%. The XG-Boost algorithm yielded the highest accuracy at 98.54%. This approach allows for faster and more cost-effective predictions, assisting both patients and doctors in diagnosing heart diseases more efficiently than traditional methods.
 
-## Acknowledgements
-
-This project was conducted as part of the Machine Learning research work at IIIT Bhopal, under the guidance of Prof. Bhupendra Singh. Special thanks to the following team members for their contributions:
-
-- **Harsh Shivhare**
-- **Shivansh Vikram Singh**
 
